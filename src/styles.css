@@ -1,0 +1,7 @@
+body {
+  background-image: url("back.svg");
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
