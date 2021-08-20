@@ -1,2 +1,2 @@
 # Is_birthday_Palindrome
-Created with CodeSandbox
+this app create on react js
